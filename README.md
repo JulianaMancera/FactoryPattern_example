@@ -1,1 +1,1 @@
-# Factory_example
+# FactoryPattern_example
